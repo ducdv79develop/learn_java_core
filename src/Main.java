@@ -12,5 +12,6 @@ public class Main {
         new day4.CatchException();
         new day4.FileHandle();
         new day4.UserInput();
+        new day5.MultipleThread();
     }
 }
